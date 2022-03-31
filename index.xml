@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vineeth&#39;s Portfolio on Vineeth Sai</title>
+    <link>https://vineethsaivs.github.io/vineethsai/</link>
+    <description>Recent content in Vineeth&#39;s Portfolio on Vineeth Sai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Dec 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://vineethsaivs.github.io/vineethsai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project II: Highest-Paid-Athletes-Analysis-With-Python</title>
+      <link>https://vineethsaivs.github.io/vineethsai/post/project-2/</link>
+      <pubDate>Fri, 10 Dec 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vineethsaivs.github.io/vineethsai/post/project-2/</guid>
+      <description>Football clubs spend a huge amount of money every year to buy professional football players during the transfer window. Predicting how much players&amp;rsquo; value in the transfer market is one of the difficult tasks for managers of the club. Transfer market.com determines the players’ value using football experts. As crowdsourcing is needed, it is updated infrequently because of the participation of many users and humans are prone to errors. Data scientists around the world are attracted to this topic since then to create datasets and estimate using data-driven methods.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Fuel-Consumption-and-Efficiency-ML</title>
+      <link>https://vineethsaivs.github.io/vineethsai/post/project-1/</link>
+      <pubDate>Thu, 09 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vineethsaivs.github.io/vineethsai/post/project-1/</guid>
+      <description>Predicting Fuel Efficiency of Vehicles In this series, we&amp;rsquo;d be going from data collection to deploying the Machine Learning model:
+  Data Collection- we are using the classic Auto MPG dataset from UCI ML Repository.
+  Define Problem Statement - We&amp;rsquo;ll frame the problem based on the dataset description and initial exploration.
+  EDA - Carry our exploratory analysis to figure out the important features and creating new combination of features.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://vineethsaivs.github.io/vineethsai/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vineethsaivs.github.io/vineethsai/contact/</guid>
+      <description>   Platform URL     Twitter: https://twitter.com/vineeth_sai_vs   LinkedIn: https://www.linkedin.com/in/vineeth-sai-441924174/   GitHub: https://github.com/vineethsaivs    </description>
+    </item>
+    
+  </channel>
+</rss>
